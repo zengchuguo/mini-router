@@ -1,0 +1,3 @@
+<template>
+    about component
+</template>
