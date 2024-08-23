@@ -1,4 +1,6 @@
-import { createRouter, createWebHistory } from 'vue-router'
+// import { createRouter, createWebHistory } from 'vue-router' //  原生的router
+import { createRouter, createWebHistory } from '../mini-router' //  mini-router
+
 import Home from '@/components/home.vue'
 import About from '@/components/about.vue'
 
